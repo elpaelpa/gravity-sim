@@ -10,7 +10,7 @@ typedef struct{
 }Body;
 
 // Gravitational constant (simulation units, tune by trial)
-const float G = 1.0f;
+const float G = 5000.0f;
 
 // Advance all bodies by dt seconds.
 void step(Body* bodies, int n, float dt);
