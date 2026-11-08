@@ -1,0 +1,8 @@
+# compiled program
+sim
+
+# CMake build folder
+build/
+
+# object files
+*.o
